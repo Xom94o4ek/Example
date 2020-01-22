@@ -1,0 +1,9 @@
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.exe.config
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.exe
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\bin\Debug\Task1.pdb
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.Form1.resources
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.exe
+c:\users\irek1\documents\visual studio 2013\Projects\Task1\Task1\obj\Debug\Task1.pdb
