@@ -1,0 +1,16 @@
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\bin\Debug\Client.exe.config
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\bin\Debug\Client.exe
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\bin\Debug\Client.pdb
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\obj\Debug\Client.Form1.resources
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\obj\Debug\Client.exe
+c:\Users\irek1\documents\visual studio 2013\Projects\Task2\Client\obj\Debug\Client.pdb
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\bin\Debug\Client.exe.config
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\obj\Debug\Client.exe
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\obj\Debug\Client.pdb
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\bin\Debug\Client.exe
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\bin\Debug\Client.pdb
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\obj\Debug\Client.Form1.resources
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Client\obj\Debug\Client.csproj.GenerateResource.Cache

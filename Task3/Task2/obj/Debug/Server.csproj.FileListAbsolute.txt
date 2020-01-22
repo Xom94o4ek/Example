@@ -1,0 +1,10 @@
+c:\users\irek1\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.exe.config
+c:\users\irek1\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.exe
+c:\users\irek1\documents\visual studio 2013\Projects\Task2\Task2\bin\Debug\Task2.pdb
+c:\users\irek1\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.exe
+c:\users\irek1\documents\visual studio 2013\Projects\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Task2\bin\Debug\Task2.exe.config
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Task2\bin\Debug\Task2.exe
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Task2\bin\Debug\Task2.pdb
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Task2\obj\Debug\Task2.exe
+C:\Users\irek1\Documents\Visual Studio 2013\Projects\Task3\Task2\obj\Debug\Task2.pdb
